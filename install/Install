@@ -1,1 +1,3 @@
-
+setup.exe: CeldyFEM for Windows (VISTA or versions above)
+CeldyFEM.tar.gz: CeldyFEM for Linux (64 bit required)
+CeldyFEM.dmg: CeldyFEM for Mac
